@@ -5,7 +5,7 @@ Slightly based on Hashcode's Nook Tablet JB repo
 
 |||
 |-----------------------------------:|:--------------------------|
-|**Discussion thread**: | http://forum.xda-developers.com/showthread.php?t=
+|**Discussion thread**: | http://forum.xda-developers.com/showthread.php?p=34728638
 |**IRC Channel**:   	| #kindlefire-dev on freenode
 
 
